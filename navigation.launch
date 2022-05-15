@@ -1,5 +1,0 @@
-<launch>
-
-  <include file="$(find leo_navigation)/launch/move_base.launch"/>
-
-</launch>
